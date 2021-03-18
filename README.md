@@ -1,1 +1,1 @@
-# git_lecture
+이주영
