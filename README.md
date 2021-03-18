@@ -1,3 +1,4 @@
 # git_lecture
-Songyejin
 
+송예진
+이채림
